@@ -10,7 +10,6 @@ function App() {
       <main>
         <MainContent />
         <Properties />
-        {/* Agrega aquí los componentes de Servicios y Contacto */}
       </main>
       <Footer />
     </>
